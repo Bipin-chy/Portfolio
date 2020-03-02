@@ -1,2 +1,2 @@
 # Portfolio
-A Portfolio projects
+This is the repository i have created for my portfolio designs
